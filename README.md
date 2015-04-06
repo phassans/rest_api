@@ -1,7 +1,7 @@
 <h1>REST API Documentation</h1>
 
 The StudentLab REST API lives at the /StudentLab/api/ endpoint and responsds to GET, POST, and DELETE.<br>
-Server url - <b>http://34c7b1da.ngrok.com/StudentLab/api/</b><br>
+Server url - <b>http://4ffbde9b.ngrok.com/StudentLab/api/</b><br>
 Please email me at pramod.shashidhara@gmail.com if server is down.
 
 <b>
